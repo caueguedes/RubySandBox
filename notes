@@ -1,0 +1,3 @@
+## ----- IRB Interactive Ruby interpreter
+
+[].methods.grep /^re/ # => [:reverse_each, :reverse, ..., :replace, ...]
